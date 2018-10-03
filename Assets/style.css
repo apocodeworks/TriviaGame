@@ -1,0 +1,51 @@
+#gamePort {
+    width: 700px;  
+    height: 500px;
+    margin-top: 10%; 
+    border-style: inset;
+    border-color: navy;
+    background: rgb(250, 199, 103);
+    color: navy;
+    text-align: justify;
+
+}
+
+#question {
+    text-align: center;
+}
+
+.answer {
+
+    text-align: center;
+}
+
+body {
+
+    background: navy;
+}
+
+h1 {
+
+    text-align: center;
+    color: white
+}
+
+#instructions {
+    text-align: center;
+}
+
+#scoreboard {
+    text-align: center;
+}
+
+
+#wordClue {
+
+    text-align: center;
+}
+#startButton {
+
+    position: relative;
+    left: 315px;
+    top: 250px;
+}
